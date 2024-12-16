@@ -93,7 +93,7 @@ NOTE: Participants are encouraged to customize the design and functionality to m
    - [Angular CLI Documentation](https://angular.dev/tools/cli)  
    - [Node.js Installation Guide](https://nodejs.org/en/download/)
    **Video Tutorial:**  
-   - [Angular Setup Guide](https://www.youtube.com/watch?v=3qBXWUpoPHo)
+   - [Angular Setup Guide](https://www.youtube.com/watch?v=0LhBvp8qpro)
 
 2. Set up Angular Material.
    **Reading Material:**  
