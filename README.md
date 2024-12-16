@@ -129,10 +129,10 @@ NOTE: Participants are encouraged to customize the design and functionality to m
 3. Fetch mock data from `ContactsService` and bind it to the table.
 
    **Reading Material:**  
-   - [Fetching Data in Angular](https://angular.io/guide/http)
+   - [Fetching Data in Angular](https://stackademic.com/blog/fetching-data-from-an-api-in-angular)
 
    **Video Tutorial:**  
-   - [Angular HTTPClient Basics](https://www.youtube.com/watch?v=bkACi-A5Rkw)
+   - [Angular HTTPClient Basics](https://www.youtube.com/watch?v=5K10oYJ5Y-E)
 
 **Deliverables:**
 - Functional contact table displaying mock data.
@@ -143,7 +143,6 @@ NOTE: Participants are encouraged to customize the design and functionality to m
 #### **Week 3: Add and Update Contacts**
 **Tasks:**
 1. Create a form for adding a new contact using Angular Material.
-   - Import: `MatFormFieldModule`, `ReactiveFormsModule`.
 
    **Reading Material:**  
    - [Angular Reactive Forms](https://angular.io/guide/reactive-forms)
