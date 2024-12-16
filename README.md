@@ -96,8 +96,8 @@ NOTE: Participants are encouraged to customize the design and functionality to m
     - [Angular Setup Guide](https://www.youtube.com/watch?v=0LhBvp8qpro)
 
 3. Set up Angular Material.
-   **Reading Material:**  
-   - [Angular Material Setup](https://material.angular.io/guide/getting-started)
+  - **Reading Material:**
+    - [Angular Material Setup](https://material.angular.io/guide/getting-started)
 
    **Video Tutorial:**  
    - [Angular Material Setup Guide](https://www.youtube.com/watch?v=KhzGSHNhnbI)
