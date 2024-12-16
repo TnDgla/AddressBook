@@ -113,10 +113,10 @@ NOTE: Participants are encouraged to customize the design and functionality to m
 1. Create a `ContactsService` to manage contact data.
 
    **Reading Material:**  
-   - [Angular Services](https://angular.io/guide/architecture-services)
+   - [Angular Services](https://angular.dev/tutorials/first-app/09-services)
 
    **Video Tutorial:**  
-   - [Angular Service Creation Guide](https://www.youtube.com/watch?v=t8SZv8_7Rlc)
+   - [Angular Service Creation Guide](https://www.youtube.com/watch?v=-jRxG84AzCI&t=1s)
 
 2. Use Angular Material Table to display contact information.
 
