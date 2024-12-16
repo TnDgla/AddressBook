@@ -89,13 +89,13 @@ NOTE: Participants are encouraged to customize the design and functionality to m
 #### **Week 1: Setup and Basic Structure**
 **Tasks:**
 1. Install Angular CLI and create a new Angular project.
-   **Reading Material:**  
-   - [Angular CLI Documentation](https://angular.dev/tools/cli)  
-   - [Node.js Installation Guide](https://nodejs.org/en/download/)
-   **Video Tutorial:**  
-   - [Angular Setup Guide](https://www.youtube.com/watch?v=0LhBvp8qpro)
+   -**Reading Material:**
+     - [Angular CLI Documentation](https://angular.dev/tools/cli)
+     - [Node.js Installation Guide](https://nodejs.org/en/download/)
+  - **Video Tutorial:**
+    - [Angular Setup Guide](https://www.youtube.com/watch?v=0LhBvp8qpro)
 
-2. Set up Angular Material.
+3. Set up Angular Material.
    **Reading Material:**  
    - [Angular Material Setup](https://material.angular.io/guide/getting-started)
 
