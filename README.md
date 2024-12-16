@@ -71,7 +71,7 @@ The system architecture of the Address Book Web App is structured to ensure modu
 - **Storage**:
   - Contacts data managed in-memory or integrated with a database in a future enhancement.
  
-  ![image](https://github.com/user-attachments/assets/b13d7250-0872-427f-a535-8799d7fc485a)
+![image](https://github.com/user-attachments/assets/7e5aa273-0325-40b0-9fdf-50d306f6e724)
 
 
 ---
