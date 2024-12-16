@@ -89,18 +89,14 @@ NOTE: Participants are encouraged to customize the design and functionality to m
 #### **Week 1: Setup and Basic Structure**
 **Tasks:**
 1. Install Angular CLI and create a new Angular project.
-   -**Reading Material:**
-     - [Angular CLI Documentation](https://angular.dev/tools/cli)
-     - [Node.js Installation Guide](https://nodejs.org/en/download/)
-  - **Video Tutorial:**
-    - [Angular Setup Guide](https://www.youtube.com/watch?v=0LhBvp8qpro)
+   - **Reading Material:**
+       - [Angular CLI Documentation](https://angular.dev/tools/cli)
+       - [Node.js Installation Guide](https://nodejs.org/en/download/)
+  - **Video Tutorial:** [Angular Setup Guide](https://www.youtube.com/watch?v=0LhBvp8qpro)
 
 3. Set up Angular Material.
-  - **Reading Material:**
-    - [Angular Material Setup](https://material.angular.io/guide/getting-started)
-
-   **Video Tutorial:**  
-   - [Angular Material Setup Guide](https://www.youtube.com/watch?v=KhzGSHNhnbI)
+   - **Reading Material:** [Angular Material Setup](https://material.angular.io/guide/getting-started)
+   - **Video Tutorial:** [Angular Material Setup Guide](https://www.youtube.com/watch?v=KhzGSHNhnbI)
 
 **Deliverables:**
 - Angular project with basic folder structure.
@@ -111,28 +107,19 @@ NOTE: Participants are encouraged to customize the design and functionality to m
 #### **Week 2: Display Contacts**
 **Tasks:**
 1. Create a `ContactsService` to manage contact data.
+   - **Reading Material:** [Angular Services](https://angular.dev/tutorials/first-app/09-services)
+   - **Video Tutorial:** [Angular Service Creation Guide](https://www.youtube.com/watch?v=-jRxG84AzCI&t=1s)
 
-   **Reading Material:**  
-   - [Angular Services](https://angular.dev/tutorials/first-app/09-services)
+3. Use Angular Material Table to display contact information.
+   - **Reading Material:** [Angular Material Table](https://material.angular.io/components/table/overview)
 
-   **Video Tutorial:**  
-   - [Angular Service Creation Guide](https://www.youtube.com/watch?v=-jRxG84AzCI&t=1s)
+   - **Video Tutorial:** [Angular Material Table Guide](https://www.youtube.com/watch?v=jUfEn032IL8)
 
-2. Use Angular Material Table to display contact information.
+5. Fetch mock data from `ContactsService` and bind it to the table.
 
-   **Reading Material:**  
-   - [Angular Material Table](https://material.angular.io/components/table/overview)
+   - **Reading Material:** [Fetching Data in Angular](https://stackademic.com/blog/fetching-data-from-an-api-in-angular)
 
-   **Video Tutorial:**  
-   - [Angular Material Table Guide](https://www.youtube.com/watch?v=jUfEn032IL8)
-
-3. Fetch mock data from `ContactsService` and bind it to the table.
-
-   **Reading Material:**  
-   - [Fetching Data in Angular](https://stackademic.com/blog/fetching-data-from-an-api-in-angular)
-
-   **Video Tutorial:**  
-   - [Angular HTTPClient Basics](https://www.youtube.com/watch?v=5K10oYJ5Y-E)
+   - **Video Tutorial:** [Angular HTTPClient Basics](https://www.youtube.com/watch?v=5K10oYJ5Y-E)
 
 **Deliverables:**
 - Functional contact table displaying mock data.
