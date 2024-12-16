@@ -145,18 +145,18 @@ NOTE: Participants are encouraged to customize the design and functionality to m
 1. Create a form for adding a new contact using Angular Material.
 
    **Reading Material:**  
-   - [Angular Reactive Forms](https://angular.io/guide/reactive-forms)
+   - [Angular Reactive Forms](https://angular.dev/guide/forms/reactive-forms)
 
    **Video Tutorial:**  
-   - [Angular Reactive Forms Tutorial](https://www.youtube.com/watch?v=EcRFYF4B3IQ)
+   - [Angular Reactive Forms Tutorial](https://www.youtube.com/watch?v=iD-T7lsirqI&list=PLaFzfwmPR7_JW-7KphrbMHlkk39GZzfPd)
 
 2. Implement validation rules using Angular Reactive Forms.
-
+a
    **Reading Material:**  
-   - [Form Validation in Angular](https://angular.io/guide/form-validation)
+   - [Form Validation in Angular](https://angular.dev/tutorials/learn-angular/18-forms-validation)
 
    **Video Tutorial:**  
-   - [Angular Form Validation](https://www.youtube.com/watch?v=BrnDLHPIHoY)
+   - [Angular Form Validation](https://www.youtube.com/watch?v=yHeVLf8LWLo)
 
 3. Add dialogs for editing contact information.
 
@@ -164,7 +164,7 @@ NOTE: Participants are encouraged to customize the design and functionality to m
    - [Angular Material Dialog](https://material.angular.io/components/dialog/overview)
 
    **Video Tutorial:**  
-   - [Angular Dialog Example](https://www.youtube.com/watch?v=8uDJ-xrvAkI)
+   - [Angular Dialog Example](https://www.youtube.com/watch?v=ZgT6tQodLnM)
 
 **Deliverables:**
 - Form for adding and editing contacts.
@@ -180,15 +180,15 @@ NOTE: Participants are encouraged to customize the design and functionality to m
    - [Angular Material Dialog](https://material.angular.io/components/dialog/overview)
 
    **Video Tutorial:**  
-   - [Angular Delete Dialog Example](https://www.youtube.com/watch?v=06-Hhcr54xI)
+   - [Angular Delete Dialog Example](https://www.youtube.com/watch?v=3tD6fKdxom0)
 
 2. Add animations for dialogs and table rows.
 
    **Reading Material:**  
-   - [Angular Animations](https://angular.io/guide/animations)
+   - [Angular Animations](https://www.telerik.com/kendo-angular-ui/components/dialogs/dialog/animations#:~:text=The%20Dialog%20enables%20you%20to,the%20animation%20property%20to%20false%20.)
 
    **Video Tutorial:**  
-   - [Angular Animation Guide](https://www.youtube.com/watch?v=hsE6UyFIC4g)
+   - [Angular Animation Guide](https://www.youtube.com/watch?v=HSxQbGXDo3U&list=PLp-SHngyo0_ikgEN5d9VpwzwXA-eWewSM&index=8)
 
 3. Finalize responsive UI with Angular Material breakpoints.
 
@@ -196,7 +196,7 @@ NOTE: Participants are encouraged to customize the design and functionality to m
    - [Angular Material Breakpoints](https://material.angular.io/cdk/layout/overview)
 
    **Video Tutorial:**  
-   - [Angular Responsive Design](https://www.youtube.com/watch?v=hNgr8j3h0JA)
+   - [Angular Responsive Design](https://www.youtube.com/watch?v=XHEnQM_NieU)
 
 **Deliverables:**
 - Functional delete button with confirmation dialogs.
