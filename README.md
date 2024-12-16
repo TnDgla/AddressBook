@@ -89,25 +89,18 @@ NOTE: Participants are encouraged to customize the design and functionality to m
 #### **Week 1: Setup and Basic Structure**
 **Tasks:**
 1. Install Angular CLI and create a new Angular project.
-   - Command: `npx @angular/cli new address-book`
-
    **Reading Material:**  
-   - [Angular CLI Documentation](https://angular.io/cli)  
+   - [Angular CLI Documentation](https://angular.dev/tools/cli)  
    - [Node.js Installation Guide](https://nodejs.org/en/download/)
-
    **Video Tutorial:**  
    - [Angular Setup Guide](https://www.youtube.com/watch?v=3qBXWUpoPHo)
 
 2. Set up Angular Material.
-   - Command: `ng add @angular/material`
-
    **Reading Material:**  
    - [Angular Material Setup](https://material.angular.io/guide/getting-started)
 
    **Video Tutorial:**  
    - [Angular Material Setup Guide](https://www.youtube.com/watch?v=KhzGSHNhnbI)
-
-3. Create project folders: `components`, `services`, `dialogs`.
 
 **Deliverables:**
 - Angular project with basic folder structure.
@@ -118,7 +111,6 @@ NOTE: Participants are encouraged to customize the design and functionality to m
 #### **Week 2: Display Contacts**
 **Tasks:**
 1. Create a `ContactsService` to manage contact data.
-   - Command: `ng generate service services/contacts`
 
    **Reading Material:**  
    - [Angular Services](https://angular.io/guide/architecture-services)
@@ -127,7 +119,6 @@ NOTE: Participants are encouraged to customize the design and functionality to m
    - [Angular Service Creation Guide](https://www.youtube.com/watch?v=t8SZv8_7Rlc)
 
 2. Use Angular Material Table to display contact information.
-   - Import: `MatTableModule`.
 
    **Reading Material:**  
    - [Angular Material Table](https://material.angular.io/components/table/overview)
