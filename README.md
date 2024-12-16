@@ -124,7 +124,7 @@ NOTE: Participants are encouraged to customize the design and functionality to m
    - [Angular Material Table](https://material.angular.io/components/table/overview)
 
    **Video Tutorial:**  
-   - [Angular Material Table Guide](https://www.youtube.com/watch?v=6fw7eHDxzE0)
+   - [Angular Material Table Guide](https://www.youtube.com/watch?v=jUfEn032IL8)
 
 3. Fetch mock data from `ContactsService` and bind it to the table.
 
