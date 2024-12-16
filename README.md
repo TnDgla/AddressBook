@@ -130,18 +130,16 @@ NOTE: Participants are encouraged to customize the design and functionality to m
 #### **Week 3: Add and Update Contacts**
 **Tasks:**
 1. Create a form for adding a new contact using Angular Material.
-  - **Reading Material:** [Angular Reactive Forms](https://angular.dev/guide/forms/reactive-forms)
-  - **Video Tutorial:** [Angular Reactive Forms Tutorial](https://www.youtube.com/watch?v=iD-T7lsirqI&list=PLaFzfwmPR7_JW-7KphrbMHlkk39GZzfPd)
+   - **Reading Material:** [Angular Reactive Forms](https://angular.dev/guide/forms/reactive-forms)
+   - **Video Tutorial:** [Angular Reactive Forms Tutorial](https://www.youtube.com/watch?v=iD-T7lsirqI&list=PLaFzfwmPR7_JW-7KphrbMHlkk39GZzfPd)
 
 2. Implement validation rules using Angular Reactive Forms.
-  - **Reading Material:** [Form Validation in Angular](https://angular.dev/tutorials/learn-angular/18-forms-validation)
-
-  - **Video Tutorial:** [Angular Form Validation](https://www.youtube.com/watch?v=yHeVLf8LWLo)
+   - **Reading Material:** [Form Validation in Angular](https://angular.dev/tutorials/learn-angular/18-forms-validation)
+   - **Video Tutorial:** [Angular Form Validation](https://www.youtube.com/watch?v=yHeVLf8LWLo)
 
 3. Add dialogs for editing contact information.
 
    - **Reading Material:** [Angular Material Dialog](https://material.angular.io/components/dialog/overview)
-
    - **Video Tutorial:** [Angular Dialog Example](https://www.youtube.com/watch?v=ZgT6tQodLnM)
 
 **Deliverables:**
